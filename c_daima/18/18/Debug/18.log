@@ -1,0 +1,17 @@
+﻿生成启动时间为 2019/10/14 14:04:36。
+     1>项目“E:\c_daima\18\18\18.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\18.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\VC2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt 18.c
+         18.c
+       Link:
+         D:\VC2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c_daima\18\Debug\18.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\18.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\c_daima\18\Debug\18.pdb" /SUBSYSTEM:NATIVE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c_daima\18\Debug\18.lib" /MACHINE:X86 Debug\18.obj
+     1>kernel32.lib(KERNEL32.dll) : warning LNK4237: 在从“KERNEL32.DLL”导入时已指定 /SUBSYSTEM:NATIVE；请使用 /SUBSYSTEM:CONSOLE 或者 /SUBSYSTEM:WINDOWS。
+     1>LINK : error LNK2001: 无法解析的外部符号 _NtProcessStartup
+     1>E:\c_daima\18\Debug\18.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“E:\c_daima\18\18\18.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.26

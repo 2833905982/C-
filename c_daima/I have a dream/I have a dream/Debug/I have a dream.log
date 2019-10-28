@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/10/16 19:12:27。
+     1>项目“C:\Users\渣子\Documents\Visual Studio 2010\Projects\I have a dream\I have a dream\I have a dream.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\I have a dream.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\渣子\Documents\Visual Studio 2010\Projects\wet.c\wet.c\Debug\I have a dream.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\I have a dream.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\渣子\Documents\Visual Studio 2010\Projects\wet.c\wet.c\Debug\I have a dream.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\渣子\Documents\Visual Studio 2010\Projects\wet.c\wet.c\Debug\I have a dream.lib" /MACHINE:X86 Debug\2.obj
+         Debug\wo.obj
+     1>wo.obj : error LNK2005: _main 已经在 2.obj 中定义
+     1>C:\Users\渣子\Documents\Visual Studio 2010\Projects\wet.c\wet.c\Debug\I have a dream.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“C:\Users\渣子\Documents\Visual Studio 2010\Projects\I have a dream\I have a dream\I have a dream.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.29

@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/11/6 0:11:20。
+     1>项目“C:\Users\渣子\documents\visual studio 2010\Projects\fgvhb\fgvhb\fgvhb.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\fgvhb.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt sfdg.c
+         sfdg.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\渣子\documents\visual studio 2010\Projects\fgvhb\Debug\fgvhb.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\fgvhb.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\渣子\documents\visual studio 2010\Projects\fgvhb\Debug\fgvhb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\渣子\documents\visual studio 2010\Projects\fgvhb\Debug\fgvhb.lib" /MACHINE:X86 Debug\sfdg.obj
+         Debug\sxsrt.obj
+     1>sxsrt.obj : error LNK2005: _main 已经在 sfdg.obj 中定义
+     1>C:\Users\渣子\documents\visual studio 2010\Projects\fgvhb\Debug\fgvhb.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“C:\Users\渣子\documents\visual studio 2010\Projects\fgvhb\fgvhb\fgvhb.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.57

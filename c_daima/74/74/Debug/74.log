@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/1/1 17:57:36。
+     1>项目“C:\Users\渣子\Documents\Visual Studio 2010\Projects\74\74\74.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\74.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt 74.c
+         74.c
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\渣子\Documents\Visual Studio 2010\Projects\74\Debug\74.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\74.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\渣子\Documents\Visual Studio 2010\Projects\74\Debug\74.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\渣子\Documents\Visual Studio 2010\Projects\74\Debug\74.lib" /MACHINE:X86 Debug\74.exe.embed.manifest.res
+         Debug\74.obj
+     1>LINK : fatal error LNK1168: 无法打开 C:\Users\渣子\Documents\Visual Studio 2010\Projects\74\Debug\74.exe 进行写入
+     1>已完成生成项目“C:\Users\渣子\Documents\Visual Studio 2010\Projects\74\74\74.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.64

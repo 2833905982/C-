@@ -1,0 +1,13 @@
+﻿生成启动时间为 2018/11/4 15:49:23。
+     1>项目“c:\Users\渣子\documents\visual studio 2010\Projects\5rtghj\5rtghj\5rtghj.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\5rtghj.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt fghjk.c
+         TRACKER : 
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(153,5): error MSB6006: “CL.exe”已退出，代码为 2。
+     1>已完成生成项目“c:\Users\渣子\documents\visual studio 2010\Projects\5rtghj\5rtghj\5rtghj.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.12

@@ -1,0 +1,25 @@
+﻿生成启动时间为 2018/10/17 15:41:00。
+     1>项目“c:\Users\渣子\documents\visual studio 2010\Projects\12345689\12345689\12345689.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\12345689.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt wedfghjk.c
+         wedfghjk.c
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(7): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(8): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(10): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(11): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(16): error C2065: “a”: 未声明的标识符
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(17): error C2065: “count”: 未声明的标识符
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(18): error C2065: “a”: 未声明的标识符
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(18): error C2065: “number”: 未声明的标识符
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(21): error C2065: “a”: 未声明的标识符
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(21): error C2065: “number”: 未声明的标识符
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(24): error C2065: “a”: 未声明的标识符
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(24): error C2065: “number”: 未声明的标识符
+     1>c:\users\渣子\documents\visual studio 2010\projects\12345689\12345689\wedfghjk.c(25): error C2065: “count”: 未声明的标识符
+     1>已完成生成项目“c:\Users\渣子\documents\visual studio 2010\Projects\12345689\12345689\12345689.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.18

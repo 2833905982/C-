@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/10/25 0:17:34。
+     1>项目“C:\Users\渣子\Documents\Visual Studio 2010\Projects\456789\456789\456789.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Users\渣子\Documents\Visual Studio 2010\Projects\456789\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\456789.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\456789.unsuccessfulbuild”。
+         正在对“Debug\456789.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\渣子\Documents\Visual Studio 2010\Projects\456789\456789\456789.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.08
